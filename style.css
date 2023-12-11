@@ -6,12 +6,8 @@ body
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
 
 h1
-{font-size:xx-large}
-
-
-
-h1
-{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+{font-size:xx-large;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 section {
     background-color: #ff0000;
 }
